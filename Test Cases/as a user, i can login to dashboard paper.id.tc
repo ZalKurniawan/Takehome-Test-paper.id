@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>as a user, i can login to dashboard paper.id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a9979f49-c14b-41c5-a77e-96073bea3ef2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ac098c23-1b0e-4884-b6e3-027b95bb5222</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5e8ec07d-1db3-4a7b-a977-c8ecd6c3b8bc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a74e26c0-18f6-45b4-9c26-0d111123cbff</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'kandidat@paper.id'</defaultValue>
+      <description></description>
+      <id>ac098c23-1b0e-4884-b6e3-027b95bb5222</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'paper.id'</defaultValue>
+      <description></description>
+      <id>5e8ec07d-1db3-4a7b-a977-c8ecd6c3b8bc</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://www.paper.id/webappv1/#/invoicer/dashboardv2'</defaultValue>
+      <description></description>
+      <id>a74e26c0-18f6-45b4-9c26-0d111123cbff</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>
